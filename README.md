@@ -8,7 +8,7 @@ Cloud/DevOps Engineer who enjoys building infrastructure at scale and automating
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-34A853?style=flat&logo=googlecloud&logoColor=white)
 ![OCI](https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=white)
 
 **IaC**
